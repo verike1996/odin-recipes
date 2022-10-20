@@ -5,6 +5,10 @@
 }
 
 img {
-    width: 75vw;
+    width: 50em;
     height: auto;
+}
+
+h1 {
+    color: orange;
 }
